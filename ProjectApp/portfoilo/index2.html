@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style1.css">
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
+</head>
+<body>
+    
+    <div class="hamburger">
+        <div class="Line"></div>
+        <div class="Line"></div>
+        <div class="Line"></div>
+    </div>
+    <div class="menu">
+       <div class="menu-item"><a href="index.html">J</a></div>
+       <div class="menu-item">Certificate</div>
+       <div class="menu-item">contact</div>
+    </div>
+    <section>
+        
+        <img src="images/180700.png" class="logo" id="icon">
+        
+        <center><img src="images/305760685_3268710986789724_1459272452680053709_n.jpg" width="100%"></center>
+        <b><h1 data-text="PORTFOLIO" class="textfolio">I'm <span class="auto-type"> </span></h1></b>
+         <p class="textbox">My name is Nattakit kiewchaum Im 17 year old. now I am a fullstack developer in Thawaranukul let see what i can do for your company.  </p>
+    </section>
+    <section>
+     <div class="buttontogo">Experince</div>
+     <img src="images/flutterphoto.PNG" width="50%">
+     <p class="textbox"> i learn about flutter for 2 month and  I have expirence about flutter a little bit but i also do it better am I now</p>
+    </div>
+    </section>
+    <script src="js/jquery.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/box.js"></script>
+    <script>
+      
+        var icon = document.getElementById("icon");
+        icon.onclick = function(){
+         document.body.classList.toggle("dark-theme");
+         if(document.body.classList.contains("dark-theme")){
+            icon.src = "images/moon.png";
+         }
+         else{
+            icon.src ="images/sun.png";
+         }
+
+        }
+        
+    
+    </script>
+   
+        <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <Script>
+        var typed =new Typed(".auto-type",{
+            strings:["SoftwareEngineering","Devops","FullstackDev"],
+            typeSpeed:150,
+            backSpeed:150,
+            loop: true
+        })
+    </Script>
+    <section class="con">
+        <h2 class="Certificate-text">Certificate </h2>
+        <!-- Additional required wrapper -->
+        
+          <!-- Slides -->
+          <img src="images/cer.png" width="200px"></div>
+         <div class="cer1">
+            <img src="images/cer1.png" width="200px">
+         </div>
+         
+       
+    </section>
+    <section><h1>END</h1></section>
+     
+
+    
+</body>
+</html>

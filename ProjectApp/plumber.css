@@ -1,0 +1,32 @@
+.bgbblur{
+    background-color: black;
+    width: 100%;
+    height: 60%;
+    position: absolute;
+}
+.containner h2{
+    font-size: 4rem;
+    position: absolute;
+    color: whitesmoke;
+    margin: 10%;
+}
+.containner p{
+    color: azure;
+    position: absolute;
+    margin: 10%;
+    bottom: 30%;
+}
+.mainbboxReport{
+    border-style: groove;
+    background-color: white;
+    position: absolute;
+    width: 20%;
+    height: 40%;
+    left: 75%;
+    bottom: 40%;
+}
+.textbox{
+    width: 100%;
+    height: 100%;
+
+}

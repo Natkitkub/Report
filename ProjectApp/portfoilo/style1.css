@@ -1,0 +1,177 @@
+body{
+    background-color: #000106;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-size: 2rem;
+}
+h1 ,h5{
+    font-weight: 100;
+
+}
+section{
+    background-color:var(--primary-color);
+    padding: 6rem 3rem;
+    margin:0;
+    color: var(--secondary-color);
+}
+.hamburger{
+    position: absolute;
+    margin: 50px;
+    z-index: 2;
+    cursor: pointer;
+}
+
+.Line{
+    width: 20px;
+    height: 2px;
+    background: rgb(180, 114, 39);
+    margin-bottom: 5px;
+}
+.menu{
+    width:320px;
+    height: 100%;
+    background: rgb(125, 157, 218);
+    position: fixed;
+    top: 0;
+    left: -320px;
+    transition: left.1s;
+}
+.menu-item:first-child{
+    margin-top: 180px;
+}
+.menu- -open{
+    left:0;
+}
+.menu-item{
+    color: whitesmoke;
+    width: 100%;
+    padding: 1 rem 3rem;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.menu-item:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
+.textfolio{
+    font-size: 3rem;
+    text-align: center;
+    
+    text-transform: uppercase;
+}
+.container{ 
+    width:100%;
+    height: 50%;
+    background: rgb(189, 178, 178);
+    position: fixed;
+    top: -1;
+    left: -320px;
+    transition: left.1s;
+}
+.buttontogo{
+    text-align: center;
+    bottom: -50%;
+    position: absolute;
+    right: 45%;
+} 
+.buttontogo:hover{
+    cursor: pointer;
+}
+.container -open{
+    left:0;
+}
+
+#icon{
+    width: 50px;
+    position: absolute;
+    right: 8%;
+    top: 8%;
+}
+.logo:hover{
+    cursor: pointer;
+}
+:root{
+ --primary-color: #edf2fc;
+ --secondary-color:#212121;
+ 
+}
+.dark-theme{
+    --primary-color: #003333;
+ --secondary-color:#fff;
+}
+
+#blue{
+    position: absolute;
+    right: 15%;
+    top: 8%;
+}
+#LGBTQ{
+    position: absolute;
+    right: 24%;
+    top: 8%;
+}
+.box1{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    left: 0;
+   
+}
+.box2{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    
+    right: 39%;
+}
+.box3{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+   
+    right: 4%;
+}
+.textbox{
+    font-size: 20px;
+    color:var(--secondary-color);
+}
+section{
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
+}
+.lg{
+    position:fixed;
+    top: -3%;
+    left: 7%;
+
+}
+.lgcolor{
+    position: fixed;
+    top: -4%;
+    right: 78%;
+    color: rgb(0, 238, 255);
+}
+.auto-type{
+    color: rgb(0, 217, 255);
+}
+.con{
+    width: 100%;
+    height: 20vh;
+    background: #222;
+}
+.certificate-text{
+    font-size: 2rem;
+    position: fixed;
+    
+}
+.cer1{
+   -
+   
+   
+}

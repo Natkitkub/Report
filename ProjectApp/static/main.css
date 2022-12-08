@@ -1,0 +1,303 @@
+.main{
+    
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    background-image: url("https://sites.google.com/a/thawara.ac.th/thawara-dlit/_/rsrc/1500437297070/home/18837015_1561013497302627_5313886206084289298_o.jpg");
+    background-size: cover;
+}
+.secmain{
+    
+    height: 40%;
+    position: absolute;
+    width: 100%;
+    bottom: -50%;
+    background-color: thistle;
+}
+.h2center{
+    position: absolute;
+    bottom: -60%;
+    left: 25%;
+    color: black;
+    
+    
+
+}
+.bgbox{
+    position: absolute;
+    bottom: -150%;
+    width: 100%;
+    height: 100%;
+    background-color: antiquewhite;
+    opacity: 70%;
+
+
+}
+.box1{
+    position: absolute;
+    bottom: -110%;
+    width: 25%;
+    height: 40%;
+    background-color: black;
+    left: 10%;
+    
+}
+.box2{
+    position: absolute;
+    bottom: -110%;
+    width: 25%;
+    height: 40%;
+    background-color: black;
+    left: 40%;
+}
+.box3{
+    position: absolute;
+    bottom: -110%;
+    width: 25%;
+    height: 40%;
+    background-color: black;
+    left: 70%;
+}
+.h2amin{
+    font-size: 5rem;
+    position: absolute;
+    margin: 20%;
+    box-shadow: 100px;
+    filter: brightness(100%);
+    font-family: fantasy;
+    font-weight: 100; 
+    text-shadow: 1px 1px 1px #919191,
+    1px 2px 1px #919191,
+    1px 3px 1px #919191,
+    1px 4px 1px #919191,
+    1px 5px 1px #919191,
+    1px 6px 1px #919191,
+    1px 7px 1px #919191,
+    1px 8px 1px #919191,
+    1px 9px 1px #919191,
+    1px 10px 1px #919191;
+    left: -2%;
+    
+}
+.pmain{
+    position: absolute;
+    margin: 20%;
+    box-shadow: 100px;
+    filter: brightness(100%);
+    font-family: fantasy;
+    font-weight: 100; 
+    bottom: 2%;
+    left: -10%;
+    color: rgb(255, 0, 0);
+    font-size: medium;
+    
+}
+.bt1{
+    position: absolute;
+    margin: 20%;
+    box-shadow: 100px;
+    bottom: -7%;
+    left: -10%; 
+    background-color: red;
+    color: aliceblue;
+    font-family: initial;
+
+}
+.bt2{
+    position: absolute;
+    margin: 20%;
+    box-shadow: 100px;
+    bottom: -7%;
+    left: 15%; 
+    background-color: red;
+    color: aliceblue;
+    font-family: initial;
+
+}
+.bt2:hover{
+    color: orange;
+}
+.bt1:hover{
+    color: orange;
+}
+.h2secmain{
+    font-size: 5rem;
+    position: absolute;
+    
+    box-shadow: 100px;
+    filter: brightness(100%);
+    font-family: fantasy;
+    font-weight: 100; 
+    text-shadow: 1px 1px 1px #919191,
+    1px 2px 1px #919191,
+    1px 3px 1px #919191,
+    1px 4px 1px #919191,
+    1px 5px 1px #919191,
+    1px 6px 1px #919191,
+    1px 7px 1px #919191,
+    1px 8px 1px #919191,
+    1px 9px 1px #919191,
+    1px 10px 1px #919191;
+    left: 50%;
+    
+}
+.logopt1{
+    position: absolute;
+    margin: 20%;
+    bottom: -70%;
+    left: 20%;
+
+}
+.psec{
+    color: white;
+    font-size: larger;
+    position: absolute;
+    left: 40%;
+    bottom: 50%;
+}
+.h2thirdmain{
+    font-size: 5rem;
+    position: absolute;
+    
+    box-shadow: 100px;
+    filter: brightness(100%);
+    font-family: fantasy;
+    font-weight: 100; 
+    text-shadow: 1px 1px 1px #919191,
+    1px 2px 1px #919191,
+    1px 3px 1px #919191,
+    1px 4px 1px #919191,
+    1px 5px 1px #919191,
+    1px 6px 1px #919191,
+    1px 7px 1px #919191,
+    1px 8px 1px #919191,
+    1px 9px 1px #919191,
+    1px 10px 1px #919191;
+    left: 30%;
+
+}
+.inbox1{
+    width: 100%;
+    height: 50%;
+    background-image: url("https://watermark.lovepik.com/photo/20211118/large/lovepik-water-droplets-on-glass-picture_500126151.jpg");
+    left: 10%;
+    background-size: cover;
+}
+.underbox1{
+    width: 100%;
+    height: 45%;
+    background-color: deepskyblue;
+    left: 10%;
+}
+.inbox2{
+    width: 100%;
+    height: 50%;
+     background-image: url("https://image.shutterstock.com/image-vector/worker-electrician-light-bulb-flying-260nw-731383765.jpg");
+     background-size: cover;
+    left: 10%;
+}
+.underbox2{
+    width: 100%;
+    height: 45%;
+    background-color: tan;
+    left: 10%;
+}
+.inbox3{
+    width: 100%;
+    height: 50%;
+    background-image: url("https://image.shutterstock.com/image-vector/wooden-mockup-pattern-background-colorful-260nw-1259359972.jpg");
+    background-size: cover;
+    left: 10%;
+}
+.underbox3{
+    width: 100%;
+    height: 45%;
+    background-color: saddlebrown;
+    left: 10%;
+}
+.ptlogo{
+    position: absolute;
+    left: 32%;
+    bottom: 49%;
+}
+.h2box{
+    font-size: 4rem;
+    position: absolute;
+    
+    box-shadow: 100px;
+    filter: brightness(100%);
+    font-family: fantasy;
+    font-weight: 100; 
+    text-shadow: 1px 1px 1px #919191,
+    1px 2px 1px #919191,
+    1px 3px 1px #919191,
+    1px 4px 1px #919191,
+    1px 5px 1px #919191,
+    1px 6px 1px #919191,
+    1px 7px 1px #919191,
+    1px 8px 1px #919191;
+    
+    
+    left:16%;
+    color: aquamarine;
+    bottom: 10%;
+}
+.h2box2{
+    font-size: 4rem;
+    position: absolute;
+    
+    box-shadow: 100px;
+    filter: brightness(100%);
+    font-family: fantasy;
+    font-weight: 100; 
+    text-shadow: 1px 1px 1px #919191,
+    1px 2px 1px #919191,
+    1px 3px 1px #919191,
+    1px 4px 1px #919191,
+    1px 5px 1px #919191,
+    1px 6px 1px #919191,
+    1px 7px 1px #919191,
+    1px 8px 1px #919191;
+    
+    
+    left:4%;
+    color: gold;
+    bottom: 10%;
+}
+.h2box3{
+    font-size: 4rem;
+    position: absolute;
+    
+    box-shadow: 100px;
+    filter: brightness(100%);
+    font-family: fantasy;
+    font-weight: 100; 
+    text-shadow: 1px 1px 1px #919191,
+    1px 2px 1px #919191,
+    1px 3px 1px #919191,
+    1px 4px 1px #919191,
+    1px 5px 1px #919191,
+    1px 6px 1px #919191,
+    1px 7px 1px #919191,
+    1px 8px 1px #919191;
+    
+    
+    left:8%;
+    color: coral;
+    bottom: 10%;
+}
+.h2box:hover{
+    color: aqua;
+}
+.h2box2:hover{
+    color: wheat;
+}
+.h2box3:hover{
+    color: salmon;
+}
+.sp{
+    position: absolute;
+    bottom: 25%;
+    font-size: larger;
+    left: 7%;
+}

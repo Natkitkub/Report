@@ -1,0 +1,85 @@
+.MAIN{
+    margin:10%;
+    background-color: ;
+   
+}
+body{
+   
+}
+.fontformain{
+    font-size: 4rem;
+    
+}
+pfont{
+    font-size: medium;
+}
+.boxfont1{
+    border-radius: 10px 10px 0;
+    border-style: dashed;
+    
+}
+.boxfont2{
+    box-shadow: 10px;
+    position: absolute;
+    left: 20%;
+    
+   
+}
+.boxfont3{
+
+}
+.boxfont4{
+    position: absolute;
+    left: 75%;
+    bottom: -6%;
+    
+}
+body{
+   
+}
+.icon{
+    font-size: 1rem;
+    position: absolute;
+    top: 18%;
+    left: 58%;
+    
+}
+.font-thn{
+    font-weight: 400;
+}
+.inputgroup label{
+    display:block;
+    text-align:left;
+    margin:3px;
+}
+.inputgroup input{
+    height:20px;
+    width:93%;
+    padding: 5px 10px;
+    border:1px solid gray;
+}
+.sech2{
+   position: absolute;
+   left: 50%;
+   bottom: -50%;
+   font-size: 2rem;
+}
+.secmain{
+    position: absolute;
+    left: 20%;
+    bottom: -50%;
+    font-size: 2rem;
+    
+}
+.hrfor-what{
+    position: absolute;
+    width: 100%;
+    bottom:-20%;
+}
+.secinfor{
+    position: absolute;
+    left: 20%;
+    bottom: -80%;
+    font-size: 2rem;
+    
+}

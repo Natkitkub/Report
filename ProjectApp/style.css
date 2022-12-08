@@ -1,0 +1,49 @@
+body{
+    background-color: azure;
+}
+.m1{
+    display: flex;
+    width: 100%;
+    height: 40%;
+    background-color: rgb(255, 217, 0);
+    position: absolute;
+
+}
+.textm1{
+    font-size: 5rem;
+    position: absolute;
+    left: 10%;
+    display: flex;
+    bottom: 50%;
+}
+.spm1{
+    position: absolute;
+    left: 10%;
+    display: flex;
+    bottom: 50%;
+}
+.m2{
+    display: flex;
+    width: 100%;
+    height: 50%;
+    background-color: rgb(228, 204, 151);
+    position:absolute;
+    bottom: 5%;
+}
+.textm2{
+    font-size: 3rem;
+    position: absolute;
+    left: 30%;
+    display: flex;
+    
+}
+.blockreport{
+    width: 20%;
+    height: 50%;
+    background-color: aliceblue;
+    position: absolute;
+    display: flex;
+    left: 40%;
+    bottom: 10%;
+
+}

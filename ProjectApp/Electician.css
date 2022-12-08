@@ -1,0 +1,9 @@
+.textbox{
+    position: relative;
+    width: 50%;
+    height: 30%;
+    background-color: yellowgreen;
+}
+body{
+    background-color: black;
+}
